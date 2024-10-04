@@ -1,0 +1,9 @@
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #504545;
+    color: white;
+}
+.stock {
+    margin: 10px;
+}
