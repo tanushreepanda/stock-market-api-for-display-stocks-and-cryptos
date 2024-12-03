@@ -1,5 +1,6 @@
 .main {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #504545;
     color: white;
